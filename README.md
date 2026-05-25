@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
 
-<!--
-**Shubham-Redkar/Shubham-Redkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science undergraduate passionate about building practical AI systems, automation tools, and ML-powered applications.
 
-Here are some ideas to get you started:
+## Currently Exploring
+- AI Automation
+- LLM Workflows
+- FastAPI Backend Systems
+- Applied Machine Learning
+- AI Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • FastAPI • SQL • Scikit-learn • Pandas • Playwright • React • MongoDB • Ollama • Git
+
+## Featured Projects
+
+### 🏥 Patient Monitoring & Sepsis Prioritization System
+AI-powered clinical decision support system using ML, SHAP explainability, FastAPI, and LLM-generated summaries.
+
+### 🤖 BugBot – Autonomous QA Testing Agent
+Multi-agent AI system using Playwright, FastAPI, and LLMs to detect and explain website issues automatically.
+
+### 📧 Spam Email Classifier
+NLP-based spam detection system using TF-IDF and Logistic Regression.
+
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/shubham-redkar
+- Email: shubhamredkar2605@gmail.com
