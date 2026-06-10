@@ -10,7 +10,7 @@ AI & Data Science undergraduate passionate about building practical AI systems, 
 - AI Engineering
 
 ## Tech Stack
-Python • FastAPI • SQL • Scikit-learn • Pandas • Playwright • React • MongoDB • Ollama • Git
+Python • FastAPI • PostgreSQL • Scikit-learn • Pandas • React • MongoDB • Ollama • Git
 
 ## Featured Projects
 
@@ -19,9 +19,6 @@ AI-powered clinical decision support system using ML, SHAP explainability, FastA
 
 ### 🤖 BugBot – Autonomous QA Testing Agent
 Multi-agent AI system using Playwright, FastAPI, and LLMs to detect and explain website issues automatically.
-
-### 📧 Spam Email Classifier
-NLP-based spam detection system using TF-IDF and Logistic Regression.
 
 ## Connect With Me
 - LinkedIn: https://linkedin.com/in/shubham-redkar
