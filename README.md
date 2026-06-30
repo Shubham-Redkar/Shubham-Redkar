@@ -1,18 +1,21 @@
 # Hi, I'm Shubham 👋
 
-AI & Data Science undergraduate passionate about building practical AI systems, automation tools, and ML-powered applications.
+AI & Data Science undergraduate building scalable backend systems, AI applications, and developer tools. Passionate about observability, LLM applications, backend engineering, and machine learning.
 
 ## Currently Exploring
-- AI Automation
-- LLM Workflows
-- FastAPI Backend Systems
+- Backend Engineering
+- AI Agents & LLM Workflows
+- Observability & System Design
 - Applied Machine Learning
-- AI Engineering
+- AI Automation
 
 ## Tech Stack
-Python • FastAPI • PostgreSQL • Scikit-learn • Pandas • React • MongoDB • Ollama • Git
+Python • FastAPI • PostgreSQL • SQLAlchemy • Redis • JWT • Ollama • LangChain • Git
 
 ## Featured Projects
+
+### 🚀 Incident Intelligence Platform
+AI-powered observability backend for log ingestion, incident management, semantic search, and intelligent incident analysis.
 
 ### 🏥 Patient Monitoring & Sepsis Prioritization System
 AI-powered clinical decision support system using ML, SHAP explainability, FastAPI, and LLM-generated summaries.
