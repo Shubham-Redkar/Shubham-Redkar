@@ -22,7 +22,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Shubham-Redkar&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Shubham-Redkar?style=for-the-badge&color=6d28d9&labelColor=1e1b2e&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Shubham-Redkar?style=for-the-badge&color=7c3aed&labelColor=1e1b2e&label=STARS"/>
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Shubham-Redkar/Shubham-Redkar/main/assets/stars.json&style=for-the-badge&labelColor=1e1b2e&label=STARS"/>
 
 </div>
 
@@ -275,7 +275,9 @@ Contributed backend and ML-integration work for a clinical decision support syst
 <div align="center">
 
 <a href="https://leetcode.com/u/Shubham_Redkar/"><img src="https://img.shields.io/badge/LeetCode-Solving-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/shubhamredkar261"><img src="https://img.shields.io/badge/HackerRank-Active-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Active-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Active-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Active-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
@@ -285,7 +287,7 @@ Contributed backend and ML-integration work for a clinical decision support syst
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Shubham-Redkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Shubham-Redkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&cache_seconds=0" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Redkar&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="48%"/>
 
 <br/>
