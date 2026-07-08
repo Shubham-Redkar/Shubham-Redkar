@@ -1,4 +1,4 @@
-<div align="center">
+<img width="975" height="203" alt="image" src="https://github.com/user-attachments/assets/dabae38d-8998-4bd3-8759-47ad2f87a35d" /><div align="center">
 
 # Hi there, I'm Shubham Redkar 👋
 
@@ -290,11 +290,11 @@ Exploring:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Shubham-Redkar&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Redkar&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Redkar&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -304,7 +304,7 @@ Exploring:
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4)
+![](https://github-profile-trophy.vercel.app/?username=Shubham-Redkar&theme=tokyonight&no-frame=true&column=4)
 
 </div>
 
@@ -314,7 +314,7 @@ Exploring:
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Redkar&theme=tokyo-night)
 
 </div>
 
@@ -324,7 +324,7 @@ Exploring:
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/Shubham-Redkar/Shubham-Redkar/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
