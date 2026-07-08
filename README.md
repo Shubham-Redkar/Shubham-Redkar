@@ -26,9 +26,9 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F5AF0)
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
-![](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Shubham-Redkar&style=for-the-badge&color=7F5AF0)
+![](https://img.shields.io/github/followers/Shubham-Redkar?style=for-the-badge)
+![](https://img.shields.io/github/stars/Shubham-Redkar?style=for-the-badge)
 
 </div>
 
