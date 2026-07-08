@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shubham%20Redkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20FastAPI%20%7C%20LLM%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/Shubham-Redkar/Shubham-Redkar/main/assets/header-banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=40&lines=Backend+Engineer+%7C+FastAPI+%2B+PostgreSQL;AI%2FML+Engineer+%7C+LangChain+%2B+LangGraph;Building+Production-Ready+AI+Systems;Final-Year+AI+%26+Data+Science+Student" alt="Typing SVG" />
@@ -302,7 +302,7 @@ Contributed backend and ML-integration work for a clinical decision support syst
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Shubham-Redkar&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://raw.githubusercontent.com/Shubham-Redkar/Shubham-Redkar/main/assets/trophy.svg"/>
 
 </div>
 
@@ -371,6 +371,6 @@ Open To:
 
 *"Build systems that explain themselves, and code that outlives the deadline."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/Shubham-Redkar/Shubham-Redkar/main/assets/footer-banner.svg" width="100%"/>
 
 </div>
