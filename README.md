@@ -287,12 +287,12 @@ Contributed backend and ML-integration work for a clinical decision support syst
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shubham-Redkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Shubham-Redkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Redkar&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Redkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shubham-Redkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" width="48%"/>
 
 </div>
 
