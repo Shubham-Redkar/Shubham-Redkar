@@ -332,18 +332,17 @@ Contributed backend and ML-integration work for a clinical decision support syst
 
 ```yaml
 Learning:
-  - AI Supply Chain Security
-  - MLOps & Batch Processing Pipelines
+  - Database Internals
+  - Scalable Backend Systems
   - Cloud-Native AI Deployment (GCP)
 
 Building:
   - Incident Intelligence Platform (FastAPI + PostgreSQL)
-  - ModelGuard — AI Model Supply Chain Security Scanner
 
 Exploring:
-  - LangGraph Agent Workflows
-  - Vector Search & Semantic Retrieval
-  - Docker Sandboxing for Untrusted ML Artifacts
+  - LangGraph & AI Agents
+  - Vector Search & RAG
+  - AI Security
 
 Open To:
   - Backend Engineering Roles
