@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shubham%20Redkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20FastAPI%20%7C%20LLM%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+FastAPI+%2B+PostgreSQL;AI%2FML+Engineer+%7C+LangChain+%2B+LangGraph;Building+Production-Ready+AI+Systems;Final-Year+AI+%26+Data+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=40&lines=Backend+Engineer+%7C+FastAPI+%2B+PostgreSQL;AI%2FML+Engineer+%7C+LangChain+%2B+LangGraph;Building+Production-Ready+AI+Systems;Final-Year+AI+%26+Data+Science+Student" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -197,7 +197,7 @@ Built workflows for an autonomous QA inspector capable of crawling applications,
 
 <br/>
 
-## 💼 Experience
+## 💼 Project Experience
 
 **Backend Developer — Incident Intelligence Platform**
 *Independent Project · June 2026 – Present*
@@ -243,9 +243,28 @@ Contributed backend and ML-integration work for a clinical decision support syst
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Coursework-Machine%20Learning-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coursework-Distributed%20Systems-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coursework-Software%20Engineering-7C3AED?style=flat-square&logo=googlescholar&logoColor=white"/>
+**Udemy**
+
+<img src="https://img.shields.io/badge/Data%20Analytics%2C%20Data%20Science%20%26%20Machine%20Learning%20--%20All%20in%201-8B5CF6?style=flat-square&logo=udemy&logoColor=white"/>
+
+<sub>Instructor: Analytix AI · 66.5 hours · Completed April 2026 · [Verify Credential](https://ude.my/UC-2dabb894-f498-4d4d-9ee4-a2b89cf16010)</sub>
+
+<br/><br/>
+
+**Google Cloud Skills Boost**
+
+<img src="https://img.shields.io/badge/Introduction%20to%20AI%20Agents-6D28D9?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agent%20Fundamentals-6D28D9?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Enterprise%20Agents%20%26%20Use%20Cases-6D28D9?style=flat-square&logo=googlecloud&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Create%20Your%20First%20Gemini%20Enterprise%20Application-6D28D9?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Build%20Your%20First%20Agent%20with%20ADK-6D28D9?style=flat-square&logo=googlecloud&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Engineer%20AI%20Agents%20with%20ADK-6D28D9?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Optimize%20Agent%20Behavior-6D28D9?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Add%20Agent%20Capabilities%20With%20Tools-6D28D9?style=flat-square&logo=googlecloud&logoColor=white"/>
+
+<sub>8 Skill Badges earned Jun–Jul 2026 · Focus: AI Agent Development with Agent Development Kit (ADK) & Gemini Enterprise</sub>
 
 </div>
 
