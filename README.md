@@ -132,7 +132,7 @@ AI-powered observability backend for log ingestion, incident management, semanti
 | **Performance** | Redis-backed caching layer for high-frequency reads |
 | **Security** | JWT authentication, Role-Based Access Control, centralized exception handling |
 | **Impact** | Structured, testable backend foundation for incident triage workflows |
-| **Repository** | [View Repo](https://github.com/Shubham-Redkar) |
+| **Repository** | [View Repo](https://github.com/Shubham-Redkar/log-analysis-platform) |
 
 Built a scalable backend using FastAPI, PostgreSQL, and SQLAlchemy following a layered architecture with clear separation between routes, services, and data access. Implemented REST APIs supporting CRUD operations, filtering, search, sorting, and pagination for incident records. Added JWT authentication, RBAC, and Redis caching to strengthen security and performance, alongside audit logging, centralized exception handling, and Alembic-managed database migrations. Test coverage is maintained through pytest.
 
@@ -151,7 +151,7 @@ Full-stack clinical decision support system for real-time patient monitoring and
 | **Performance** | ML-driven risk scoring with LLM-generated summaries |
 | **Security** | JWT-based authentication with role-based access control |
 | **Impact** | Assisted clinicians in identifying and prioritizing high-risk patients |
-| **Repository** | [View Repo](https://github.com/Shubham-Redkar) |
+| **Repository** | [View Repo](https://github.com/Shubham-Redkar/patient-monitoring-prioritization-module) |
 
 Collaborated on building a full-stack clinical decision support system for real-time patient monitoring and sepsis risk prioritization. Developed FastAPI APIs with JWT-based authentication, role-based access control, and CSV-based patient data ingestion. Integrated ML models, SHAP explainability, and the Groq LLM to generate interpretable risk predictions and clinical summaries, with alert management and priority-based triage to support clinical decision-making.
 
@@ -189,7 +189,7 @@ Autonomous QA inspection tool for detecting and explaining application issues, b
 | **Performance** | Playwright-driven headless browsing at scale |
 | **Security** | Isolated crawl sessions with structured issue reporting |
 | **Impact** | Backend architecture designed and owned end-to-end |
-| **Repository** | [View Repo](https://github.com/Shubham-Redkar) |
+| **Repository** | [View Repo](https://github.com/Shubham-Redkar/BugBot) |
 
 Built workflows for an autonomous QA inspector capable of crawling applications, detecting issues, and explaining them in natural language, using Playwright for browser automation and the Grok API for issue explanation. Owned the backend architecture within the group project.
 
@@ -255,7 +255,7 @@ Contributed backend and ML-integration work for a clinical decision support syst
 
 <div align="center">
 
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Solving-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Shubham_Redkar/"><img src="https://img.shields.io/badge/LeetCode-Solving-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Active-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Active-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Active-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/></a>
