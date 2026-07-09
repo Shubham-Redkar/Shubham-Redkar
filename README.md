@@ -80,17 +80,17 @@ I'd rather debug a race condition than skip writing the test for it
 
 **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql&theme=dark"/>
 </p>
 
 **Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark"/>
 </p>
 
 **Backend & Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,prisma,postgres,mongodb,redis&theme=dark"/>
 </p>
 
 **Cloud, DevOps & Tooling**
