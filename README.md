@@ -20,7 +20,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shubham-Redkar&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/FOCUS-6B7280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20%26%20AI%20Systems-7C3AED?style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/followers/Shubham-Redkar?style=for-the-badge&color=6d28d9&labelColor=1e1b2e&label=FOLLOWERS"/>
 <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Shubham-Redkar/Shubham-Redkar/main/assets/stars.json&style=for-the-badge&labelColor=1e1b2e&label=STARS"/>
 
